@@ -1,0 +1,64 @@
+/*   task 2   */
+
+
+
+
+h1.h1_task2 {
+    font-family: Sans-Serif;
+}
+p.p_task2 {
+    font-family: Serif;
+}
+a.a_task2 {
+    color: darkgreen;
+}
+del.del_task2 {
+    color: grey;
+}
+h2.h2_task2 {
+    align-items: left;
+    font-family: Sans-Serif;
+}
+span.span_task2 {
+    color: darkblue;
+    background-color: pink;
+}
+pre.pre_task2 {
+    font-family: monospace;
+    font-size: 1em;
+}
+
+
+
+
+
+
+/*   task 3   */
+
+
+
+h3.h3_task3 {
+    color: darkblue; opacity: 0.8;
+}
+pre.transparent_text {
+    opacity: 0.5;
+}
+
+
+
+
+
+
+/*   task 4   */
+
+
+div.background_task4 {
+    background-color: #DCF5F5;
+}
+
+
+
+
+
+
+
