@@ -159,4 +159,104 @@ hr.hr_task7 {
     background-color: #DCF5F5;
 }
 
+div.div_outer_task7 {
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+
+}
+
+div.div_inner_task7 {
+    background-color: yellow;
+    border-style: solid;
+    border-color: red;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 12px;
+
+}
+p.nested_p{
+    text-align: right;
+}
+
+div.div2_outer_task7 {
+    background-color: blue;
+    border-style: solid;
+    border-color: red;
+    margin-top: 20px;
+
+}
+
+div.div2_inner_task7 {
+    background-color: yellow;
+    border-style: solid;
+    border-color: red;
+    margin: auto;
+    padding: 12px;
+    width: 400px;
+    height: 400px;
+
+}
+
+
+
+
+
+
+/*   task 8   */
+
+body.background_task8 {
+    background-color: #DCF5F5;
+    background-repeat: repeat;
+    background-image: url("/cross.png");
+}
+
+div.div_task8 {
+    background-color: white;
+}
+
+h1.h1_task8 {
+    font-family: Raleway, sans-serif;
+}
+
+h2.h2_task8 {
+    font-family: Raleway, sans-serif;
+}
+
+h4.h4_task8 {
+    font-family: Raleway, sans-serif;
+    text-decoration-line: underline;
+    font-style: italic;
+    font-weight: normal;
+}
+
+hr.hr_task8 {
+    background-color: #DCF5F5;
+}
+blockquote.blockquote_task8 {
+    font-family: Raleway, sans-serif;
+    color: dimgrey;
+    word-spacing: 0.2em;
+    line-height: 1.5;
+}
+
+i.fa-facebook-f {
+    color: #BFCFD4;
+    text-align: center;
+    width: 100%;
+}
+
+i.fa-twitter {
+    color: #BFCFD4;
+    text-align: center;
+    width: 100%;
+}
+i.fa-share-nodes {
+    color: #BFCFD4;
+    text-align: center;
+    width: 100%;
+}
+
 
