@@ -52,8 +52,10 @@ pre.transparent_text {
 /*   task 4   */
 
 
-div.background_task4 {
+body.background_task4 {
     background-color: #DCF5F5;
+    background-repeat: repeat;
+    background-image: url("/cross.png");
 }
 
 
@@ -62,12 +64,27 @@ div.background_task4 {
 
 /*   task 5   */
 
-
-div.div_task5 {
+body.background_task5 {
     background-color: #DCF5F5;
+    background-repeat: repeat;
+    background-image: url("/cross.png");
 }
-div.div2_task5 {
+
+div#content {
     background-color: white;
+}
+
+span.span_task5 {
+    color: blue;
+}
+
+span.span2_task5 {
+    font-family: cursive;
+}
+
+span.span3_task5 {
+    color: blue;
+    font-family: cursive;
 }
 
 
@@ -75,7 +92,71 @@ div.div2_task5 {
 /*   task 6   */
 
 
+body.background_task6 {
+    background-color: #DCF5F5;
+    background-repeat: repeat;
+    background-image: url("/cross.png");
+}
+
+div.div_task6 {
+    background-color: white;
+    border-style: solid;
+    border-color: darkgrey 1px;
+    border-radius: 8px;
+}
+
+span.red-border {
+    border-style: solid;
+    border-color: red;
+}
+
+span.red-outline {
+    outline-style: solid;
+    outline-color: red;
+}
+
+div.div2_task6 {
+    border-style: solid;
+    border-color: red;
+}
+
+div.div3_task6 {
+    border-style: solid;
+    border-color: blue;
+}
+
+div.div4_task6 {
+    border-style: solid;
+    border-color: red;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom: none;
+}
+
+div.div5_task6 {
+    border-style: solid;
+    border-color: blue;
+    border-radius: 8px;
+}
 
 
+
+
+/*   task 7   */
+
+
+body.background_task7 {
+    background-color: #DCF5F5;
+    background-repeat: repeat;
+    background-image: url("/cross.png");
+}
+
+div.div_task7 {
+    background-color: white;
+}
+
+hr.hr_task7 {
+    background-color: #DCF5F5;
+}
 
 
